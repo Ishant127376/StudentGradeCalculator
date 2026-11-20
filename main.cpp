@@ -5,7 +5,7 @@ int main() {
     string studentName;
     float marks1, marks2, marks3;
 
-    cout << "===== Student Grade Calculator =====" << endl;
+    cout << "===== Grade Calculation System =====" << endl;
 
     cout << "Enter student name: ";
     getline(cin, studentName);
